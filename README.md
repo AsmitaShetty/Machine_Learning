@@ -1,12 +1,12 @@
 # Machine Learning Project
 
 Project 1: Logistic Regression - Titanic Survival Classification
-This project involves building a logistic regression model to classify whether a passenger survived or was deceased using the Titanic dataset from Kaggle https://www.kaggle.com/c/titanic. The goal is to apply machine learning techniques to predict survival outcomes based on various features of the passengers.
+This project involves building a logistic regression model to classify whether a passenger survived or was deceased using the Titanic dataset from Kaggle. The goal is to apply machine learning techniques to predict survival outcomes based on various features of the passengers.
 
 Check out the project :- https://github.com/AsmitaShetty/Machine_Learning/blob/Logistic-Regression/Logistic%20Regression%20-%20Titanic.ipynb
 
 Dataset
-The dataset used for this project is the Titanic dataset, available on Kaggle: Titanic - Machine Learning from Disaster.
+The dataset used for this project is the Titanic dataset, available on Kaggle: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic).
 
 Project Overview
 In this project, we perform the following steps:
